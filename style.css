@@ -246,6 +246,10 @@ iframe {
   width: 600px;
 }
 
+.fas {
+  margin-right: 7px;
+}
+
 .contact-heading {
   text-align: center;
   margin-bottom: 20px;
@@ -424,6 +428,7 @@ button a {
   color: #e1e1e1;
   font-family: "Quicksand", sans-serif;
   border: none;
+  margin-top: 10px;
 }
 
 /*---success-page---*/
